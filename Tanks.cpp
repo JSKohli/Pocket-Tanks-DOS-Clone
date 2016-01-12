@@ -350,7 +350,7 @@ switch(ch)
 		goto menu;
 	case 3: cleardevice();
 		gotoxy(1,1);
-		cout<<"Objective\nThe Objective of the game is to score more than the enemy tank by targeting the missile closest to the enemy tank. As a tank\’s weakest spot are its wheels, the maximum points are obtained by aiming the missile to the leftmost wheel of the enemy tank. However there is a catch: if you hit too near to your own tank, you lose points. The player who bags the maximum points, in 5 chances, with most accurate hits wins the game.";
+		cout<<"Objective\nThe Objective of the game is to score more than the enemy tank by targeting the missile closest to the enemy tank. As a tank\Â’s weakest spot are its wheels, the maximum points are obtained by aiming the missile to the leftmost wheel of the enemy tank. However there is a catch: if you hit too near to your own tank, you lose points. The player who bags the maximum points, in 5 chances, with most accurate hits wins the game.";
 		cout<<"\n\nStrategy\nYou need to hit the target by choosing the power with which the missile will be launched i.e. the range of the missile. Also, you need to specify the angle of elevation of turret such that the missile hits the enemy tank. In the end, you can alter position of the tank to your advantage. You may move it away from the enemy tank if it has locked in on your position. Or you may seek the enemy tank to cause more damage to it. However, you cannot move the tank after you have fired or the other person has fired the missile.";
 		cout<<"\n\n\tCONTROLS:\n";
 		cout<<"\n\tIncrease Angle: w";
