@@ -1,0 +1,2 @@
+# Pocket-Tanks-DOS-Clone
+Pocket Tanks was a side project that my friend and I started in high school for fun. We were playing around with graphics trying to simulate projectiles when we thought of making the pocket tanks game. It was inspired from popular PC game: Pocket Tanks by Blitwise Productions. While the original game is a lot more elaborate, our game is a very plain version of that game. It has been made using Borland Grpahics Interface(BGI) and written in Turbo C++ compiler.
